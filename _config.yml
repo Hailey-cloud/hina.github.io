@@ -7,4 +7,4 @@ show_downloads: true # or false to indicate whether to provide a download URL
 # Theme
 theme: jekyll-theme-minimal
 
-logo: /assets/imgages/icons8-google-web-search-100.png
+logo: /assets/icons8-google-web-search-100.png
