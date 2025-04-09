@@ -1,3 +1,8 @@
-theme: jekyll-theme-cayman
-title: My Data Science Portfolio
-description: A collection of my projects and reports
+
+
+title: "Hina Tonomura"
+description: >-
+  Data Science Portfolio – Projects, Resume, and Skills.
+show_downloads: true # or false to indicate whether to provide a download URL
+# Theme
+theme: jekyll-theme-minimal
